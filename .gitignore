@@ -6,6 +6,7 @@
 *.log
 *.exe
 *~
+*/.deps/*
 .kateconfig
 configure
 Makefile
